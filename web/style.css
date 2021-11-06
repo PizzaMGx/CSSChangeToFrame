@@ -1,0 +1,23 @@
+.ph {
+  margin: 15px;
+  display: inline-block;
+}
+
+.blackborder {
+  border-color: rgb(34, 34, 34);
+  border-width: 20px;
+  border-style: ridge;
+  box-shadow: 10px 10px grey;
+}
+.whiteborder {
+  border-color: rgb(233, 233, 233);
+  border-width: 20px;
+  border-style: ridge;
+  box-shadow: 10px 10px grey;
+}
+.blackAndWhiteBorder {
+  border-color: rgb(116, 116, 116);
+  border-width: 20px;
+  border-style: ridge;
+  box-shadow: 10px 10px grey;
+}
